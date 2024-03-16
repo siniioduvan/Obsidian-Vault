@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bc4f2eba4ce7653e",
+        "id": "cfa6ebf0f05d0eb0",
         "type": "tabs",
         "children": [
           {
-            "id": "06d0916671f6d653",
+            "id": "cbb3522926909527",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проект ElKa/Основные фичи проекта.md",
+                "file": "Проекты Flutter/Что можно успеть за 100 дней.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#null",
+                "query": "стод",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +65,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "44f06f8384c4e0d7",
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проект ElKa/Основные фичи проекта.md",
+                "file": "Проекты Flutter/Что можно успеть за 100 дней.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проект ElKa/Основные фичи проекта.md",
+                "file": "Проекты Flutter/Что можно успеть за 100 дней.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +117,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -125,8 +127,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Проект ElKa/Основные фичи проекта.md"
+                "file": "Проекты Flutter/Что можно успеть за 100 дней.md"
               }
+            }
+          },
+          {
+            "id": "205ee9ebd702f4d6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
@@ -144,45 +154,49 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "06d0916671f6d653",
+  "active": "cbb3522926909527",
   "lastOpenFiles": [
-    "obsidian_vault",
-    "Семья/Круги влияния.md",
-    "Проект ElKa/Основные фичи проекта.md",
-    "Проект ElKa",
-    "Dart&Flutter/Зависимости проекта.md",
-    "Dart&Flutter/Модификаторы доступа.md",
-    "Семья/правилами отношений.md",
-    "Dart&Flutter/Стрелочные функции.md",
-    "Dart&Flutter/Анонимные функции.md",
-    "Dart&Flutter/Функции.md",
-    "Dart&Flutter/Функции верхнего уровня и переменные.md",
-    "Dart&Flutter/Параметры функции.md",
+    "Dart&Flutter/`With` and `Mixin`.md",
+    "Dart&Flutter/Наследование.md",
+    "Dart&Flutter/ООП.md",
     "Dart&Flutter/0.Особенности языка Dart.md",
+    "Семья/Что я хочу в моих отношениях?.md",
+    "Саморазвитие/Целеполагание/Насколько мои цели настоящие.md",
+    "Семья/интересные нам обоим темы для разговоров.md",
+    "Семейная терапия с Хитровым/ВзяткИ.md",
+    "Семейная терапия с Хитровым/Ситуативность секса.md",
+    "Семья/Какой формат отношений я хочу и для чего я годен?.md",
+    "Семья/Круги влияния.md",
+    "Семья/правилами отношений.md",
+    "Семья/Семья и отношения.md",
+    "Семья/Цели семьи.md",
+    "Семья/Что такое вкладываться в семью?.md",
     "Семья/Мультфильмы которые хочу показать.md",
-    "Dart&Flutter/var.md",
+    "Семья/Какой формат отношений хочет она?.md",
+    "Семья/Как создавались мои отношения.md",
+    "Списки и чеклисты/список целей.md",
+    "Саморазвитие/Целеполагание/Как я хочу жить через 5 лет.md",
+    "Проекты Flutter/Что можно успеть за 100 дней.md",
+    "Саморазвитие/Чем бы я занимался если бы этот день был последним.md",
+    "Саморазвитие/С чего начать?.md",
+    "Саморазвитие/письмо для сына.md",
+    "Саморазвитие/Кто я?.md",
+    "Саморазвитие/Я..md",
+    "Проекты Flutter",
+    "Проект ElKa/Без названия",
+    "Бурбон",
+    "Списки и чеклисты",
+    "Тренинг Антона Тимофеева",
+    "obsidian_vault",
+    "Проекты Flutter/Проект ElKa",
     "Dart&Flutter",
-    "Dart&Flutter/null-safety.md",
-    "Dart&Flutter/typedef.md",
-    "Dart&Flutter/Вычисление типа компилятором.md",
-    "Dart&Flutter/Оператор `!` или force unwrap.md",
-    "Dart&Flutter/Оператор `?` или null-aware.md",
-    "Без названия.md",
-    "Dart&Flutter/Строки.md",
-    "Dart&Flutter/Коллекции.md",
-    "Dart&Flutter/Тернарный оператор.md",
-    "Dart&Flutter/Интерполяция строк.md",
-    "Dart&Flutter/Экранирование спецсимволов.md",
-    "Dart&Flutter/Регулярные выражения.md",
     "Саморазвитие/Целеполагание",
     "Без названия.canvas",
-    "Семья/Фундамент счастливых отношений",
-    "Семья",
-    "Семейная терапия с Хитровым",
-    "Саморазвитие",
+    "Семейная терапия с Хитровым/Фундамент счастливых отношений",
     "Без названия 2.canvas",
     "Без названия 1.canvas"
   ]
